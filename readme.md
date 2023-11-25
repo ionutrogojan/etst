@@ -1,5 +1,7 @@
 # Webbox2
 
+<p align="center"><img src="https://raw.githubusercontent.com/ionutrogojan/webbox2/main/resources/webbox2.svg" width="480px"/></p>
+
 A complete rewrite of all previous versions. Quickly launch a browser with a list of links.
 
 ---
