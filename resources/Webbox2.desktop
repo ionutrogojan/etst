@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Webbox2
+GenericName=Webbox
+Comment=A quick launcher for lists of links
+Icon=./resources/webbox2.svg
+Exec=./webbox2
+Categories=Utility;
+Terminal=false
+NoDisplay=false
