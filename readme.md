@@ -38,7 +38,7 @@ Copy the file, don't move it permanently in case you might need an example for l
 
 Your final result should be something like this:
 ```C
-/home/<username>/.config/webbox/example.cfg					// LINUX
+/home/<username>/.config/webbox/example.cfg			// LINUX
 /Users/<Username>/Library/Preferences/webbox/example.cfg	// MACOS
 /C:\Users\YourUsername\AppData\Roaming\webbox\example.cfg	// WINDOWS
 ```
