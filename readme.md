@@ -40,6 +40,6 @@ Your final result should be something like this:
 ```C
 /home/<username>/.config/webbox/example.cfg			// LINUX
 /Users/<Username>/Library/Preferences/webbox/example.cfg	// MACOS
-/C:\Users\YourUsername\AppData\Roaming\webbox\example.cfg	// WINDOWS
+C:\Users\YourUsername\AppData\Roaming\webbox\example.cfg	// WINDOWS
 ```
 Webbox will look for a `default.cfg` so rename `example.cfg` to that and modify the links to your desired ones or create a new file and add your links there following the example file.

@@ -113,4 +113,7 @@ funcEnd:
 	return 0;
 }
 
+// TODO: test the config path if it works on MacOS and Windows
+// TODO: automatic setup of the config file if it doesn't exist
+// TODO: write a string formatting lib for easier use
 // TODO: add section support for setup, links and more
